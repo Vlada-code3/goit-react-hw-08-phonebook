@@ -1,6 +1,4 @@
 import React from "react";
-import UserMenu from "../userMenu/UserMenu";
-
 import { HeaderContainer } from "./HeaderStyed";
 import Navigation from "./navigation/Navigation";
 
